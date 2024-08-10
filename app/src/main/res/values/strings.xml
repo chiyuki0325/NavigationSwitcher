@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Navigation Switcher</string>
+    <string name="accessibility_service_label">前台 app 监听服务</string>
+    <string name="accessibility_service_description">监听前台 app 的变更以便于切换导航模式</string>
+</resources>
